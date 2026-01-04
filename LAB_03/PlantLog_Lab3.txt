@@ -1,0 +1,15 @@
+2025-12-29T08:37:51.539526400 | Рослину створено: Apple tree, етап=SPROUT
+2025-12-29T08:37:51.541526700 | Tree створено: evergreen=false
+2025-12-29T08:37:51.547529300 | status() -> Plant{species='Apple tree', location='Window', stage=SPROUT, health=80, energy=50, rootHydration=50, stem=10cm/3mm, leaves=6, flowers=0}
+2025-12-29T08:37:51.553538500 | treeStatus()
+2025-12-29T08:37:51.568052700 | fertilize(20g) -> енергія=54, здоров'я=82
+2025-12-29T08:37:51.571049800 | water(300ml) -> зволоженість=65, енергія=60, здоров'я=83
+2025-12-29T08:37:51.574051800 | bloom() -> квітів=3, етап=FLOWERING
+2025-12-29T08:37:51.574051800 | pollinate() -> запилено=true
+2025-12-29T08:37:51.574051800 | Етап змінено на FRUITING
+2025-12-29T08:37:51.574051800 | careForSeason(SPRING)
+2025-12-29T08:37:51.576053400 | growOneYear() -> ageYears=2, trunkDiameterCm=2.6
+2025-12-29T08:37:51.576053400 | harvest() -> зібрано=3
+2025-12-29T08:37:51.577056300 | status() -> Plant{species='Apple tree', location='Window', stage=FRUITING, health=78, energy=45, rootHydration=65, stem=10cm/3mm, leaves=6, flowers=3}
+2025-12-29T08:37:51.577056300 | treeStatus()
+2025-12-29T08:37:51.577056300 | close() -> закриття файлу журналу
